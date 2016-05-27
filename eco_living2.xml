@@ -15143,107 +15143,107 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_murein3px4p_p" stoichiometry="0.000605"/>
-          <speciesReference species="M_pg161_c" stoichiometry="0.004439"/>
-          <speciesReference species="M_udcpdp_c" stoichiometry="5.5e-05"/>
-          <speciesReference species="M_zn2_c" stoichiometry="0.000324"/>
-          <speciesReference species="M_pg181_c" stoichiometry="0.002288"/>
-          <speciesReference species="M_gthrd_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_thmpp_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_gtp_c" stoichiometry="0.209121"/>
-          <speciesReference species="M_ca2_c" stoichiometry="0.004952"/>
-          <speciesReference species="M_murein4px4px4p_p" stoichiometry="0.000673"/>
-          <speciesReference species="M_2fe2s_c" stoichiometry="2.5e-05"/>
-          <speciesReference species="M_murein3p3p_p" stoichiometry="0.001345"/>
-          <speciesReference species="M_mg2_c" stoichiometry="0.008253"/>
-          <speciesReference species="M_clpn160_p" stoichiometry="0.002944"/>
-          <speciesReference species="M_h2o_c" stoichiometry="48.752916"/>
-          <speciesReference species="M_clpn161_p" stoichiometry="0.00229"/>
-          <speciesReference species="M_clpn181_p" stoichiometry="0.00118"/>
-          <speciesReference species="M_murein4p4p_p" stoichiometry="0.005381"/>
-          <speciesReference species="M_murein4px4p_p" stoichiometry="0.005448"/>
-          <speciesReference species="M_ptrc_c" stoichiometry="0.03327"/>
-          <speciesReference species="M_arg_DASH_L_c" stoichiometry="0.28742"/>
-          <speciesReference species="M_mlthf_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_pro_DASH_L_c" stoichiometry="0.214798"/>
-          <speciesReference species="M_ribflv_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_phe_DASH_L_c" stoichiometry="0.180021"/>
-          <speciesReference species="M_pheme_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_mn2_c" stoichiometry="0.000658"/>
-          <speciesReference species="M_asn_DASH_L_c" stoichiometry="0.234232"/>
-          <speciesReference species="M_chor_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_10fthf_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_pe181_p" stoichiometry="0.012747"/>
-          <speciesReference species="M_asp_DASH_L_c" stoichiometry="0.234232"/>
-          <speciesReference species="M_mobd_c" stoichiometry="7e-06"/>
-          <speciesReference species="M_dttp_c" stoichiometry="0.024805"/>
-          <speciesReference species="M_mococdp_c" stoichiometry="7e-06"/>
-          <speciesReference species="M_hemeO_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_mocogdp_c" stoichiometry="7e-06"/>
-          <speciesReference species="M_utp_c" stoichiometry="0.140101"/>
-          <speciesReference species="M_atp_c" stoichiometry="54.119975"/>
-          <speciesReference species="M_val_DASH_L_c" stoichiometry="0.411184"/>
-          <speciesReference species="M_mql8_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_adocbl_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_his_DASH_L_c" stoichiometry="0.092056"/>
-          <speciesReference species="M_pydx5p_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_ile_DASH_L_c" stoichiometry="0.282306"/>
-          <speciesReference species="M_bmocogdp_c" stoichiometry="0.000116"/>
-          <speciesReference species="M_k_c" stoichiometry="0.18569"/>
-          <speciesReference species="M_cl_c" stoichiometry="0.004952"/>
-          <speciesReference species="M_nadh_c" stoichiometry="4.5e-05"/>
-          <speciesReference species="M_2dmmql8_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_enter_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_sheme_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_q8h2_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_amet_c" stoichiometry="0.000223"/>
           <speciesReference species="M_cobalt2_c" stoichiometry="2.4e-05"/>
           <speciesReference species="M_nad_c" stoichiometry="0.001787"/>
-          <speciesReference species="M_leu_DASH_L_c" stoichiometry="0.437778"/>
+          <speciesReference species="M_nadh_c" stoichiometry="4.5e-05"/>
+          <speciesReference species="M_thmpp_c" stoichiometry="0.000223"/>
           <speciesReference species="M_nadp_c" stoichiometry="0.000112"/>
           <speciesReference species="M_gln_DASH_L_c" stoichiometry="0.255712"/>
           <speciesReference species="M_fad_c" stoichiometry="0.000223"/>
           <speciesReference species="M_nadph_c" stoichiometry="0.000335"/>
           <speciesReference species="M_ala_DASH_L_c" stoichiometry="0.499149"/>
           <speciesReference species="M_dctp_c" stoichiometry="0.025612"/>
-          <speciesReference species="M_nh4_c" stoichiometry="0.012379"/>
-          <speciesReference species="M_met_DASH_L_c" stoichiometry="0.149336"/>
+          <speciesReference species="M_thf_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_murein4px4px4p_p" stoichiometry="0.000673"/>
           <speciesReference species="M_glu_DASH_L_c" stoichiometry="0.255712"/>
           <speciesReference species="M_so4_c" stoichiometry="0.004126"/>
           <speciesReference species="M_spmd_c" stoichiometry="0.006744"/>
+          <speciesReference species="M_pro_DASH_L_c" stoichiometry="0.214798"/>
           <speciesReference species="M_fe2_c" stoichiometry="0.006388"/>
+          <speciesReference species="M_ptrc_c" stoichiometry="0.03327"/>
           <speciesReference species="M_5mthf_c" stoichiometry="0.000223"/>
           <speciesReference species="M_pe161_p" stoichiometry="0.024732"/>
           <speciesReference species="M_fe3_c" stoichiometry="0.007428"/>
           <speciesReference species="M_lipopb_c" stoichiometry="3e-06"/>
           <speciesReference species="M_thr_DASH_L_c" stoichiometry="0.246506"/>
-          <speciesReference species="M_ctp_c" stoichiometry="0.129799"/>
-          <speciesReference species="M_trp_DASH_L_c" stoichiometry="0.055234"/>
+          <speciesReference species="M_pe181_p" stoichiometry="0.012747"/>
           <speciesReference species="M_colipa_e" stoichiometry="0.008151"/>
           <speciesReference species="M_lys_DASH_L_c" stoichiometry="0.333448"/>
           <speciesReference species="M_gly_c" stoichiometry="0.595297"/>
-          <speciesReference species="M_ser_DASH_L_c" stoichiometry="0.209684"/>
-          <speciesReference species="M_succoa_c" stoichiometry="9.8e-05"/>
-          <speciesReference species="M_thf_c" stoichiometry="0.000223"/>
           <speciesReference species="M_pe160_p" stoichiometry="0.031798"/>
+          <speciesReference species="M_amet_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_chor_c" stoichiometry="0.000223"/>
           <speciesReference species="M_dgtp_c" stoichiometry="0.025612"/>
-          <speciesReference species="M_pg160_p" stoichiometry="0.004892"/>
+          <speciesReference species="M_ctp_c" stoichiometry="0.129799"/>
+          <speciesReference species="M_trp_DASH_L_c" stoichiometry="0.055234"/>
           <speciesReference species="M_malcoa_c" stoichiometry="3.1e-05"/>
-          <speciesReference species="M_pg161_p" stoichiometry="0.003805"/>
           <speciesReference species="M_cu2_c" stoichiometry="0.000674"/>
           <speciesReference species="M_4fe4s_c" stoichiometry="0.000248"/>
           <speciesReference species="M_pg181_p" stoichiometry="0.001961"/>
           <speciesReference species="M_tyr_DASH_L_c" stoichiometry="0.133993"/>
-          <speciesReference species="M_ni2_c" stoichiometry="0.000307"/>
           <speciesReference species="M_cys_DASH_L_c" stoichiometry="0.088988"/>
           <speciesReference species="M_glycogen_c" stoichiometry="0.154187"/>
-          <speciesReference species="M_coa_c" stoichiometry="0.000168"/>
           <speciesReference species="M_pe160_c" stoichiometry="0.012366"/>
           <speciesReference species="M_pe161_c" stoichiometry="0.009618"/>
+          <speciesReference species="M_ile_DASH_L_c" stoichiometry="0.282306"/>
           <speciesReference species="M_pe181_c" stoichiometry="0.004957"/>
+          <speciesReference species="M_leu_DASH_L_c" stoichiometry="0.437778"/>
           <speciesReference species="M_datp_c" stoichiometry="0.024805"/>
           <speciesReference species="M_pg160_c" stoichiometry="0.005707"/>
-          <speciesReference species="M_btn_c" stoichiometry="2e-06"/>
           <speciesReference species="M_accoa_c" stoichiometry="0.000279"/>
+          <speciesReference species="M_succoa_c" stoichiometry="9.8e-05"/>
+          <speciesReference species="M_pg161_c" stoichiometry="0.004439"/>
+          <speciesReference species="M_udcpdp_c" stoichiometry="5.5e-05"/>
+          <speciesReference species="M_zn2_c" stoichiometry="0.000324"/>
+          <speciesReference species="M_pg181_c" stoichiometry="0.002288"/>
+          <speciesReference species="M_gthrd_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_gtp_c" stoichiometry="0.209121"/>
+          <speciesReference species="M_ca2_c" stoichiometry="0.004952"/>
+          <speciesReference species="M_met_DASH_L_c" stoichiometry="0.149336"/>
+          <speciesReference species="M_2fe2s_c" stoichiometry="2.5e-05"/>
+          <speciesReference species="M_murein3p3p_p" stoichiometry="0.001345"/>
+          <speciesReference species="M_mg2_c" stoichiometry="0.008253"/>
+          <speciesReference species="M_clpn160_p" stoichiometry="0.002944"/>
+          <speciesReference species="M_h2o_c" stoichiometry="48.752916"/>
+          <speciesReference species="M_clpn161_p" stoichiometry="0.00229"/>
+          <speciesReference species="M_murein4p4p_p" stoichiometry="0.005381"/>
+          <speciesReference species="M_murein4px4p_p" stoichiometry="0.005448"/>
+          <speciesReference species="M_arg_DASH_L_c" stoichiometry="0.28742"/>
+          <speciesReference species="M_mlthf_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_clpn181_p" stoichiometry="0.00118"/>
+          <speciesReference species="M_ribflv_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_phe_DASH_L_c" stoichiometry="0.180021"/>
+          <speciesReference species="M_pg160_p" stoichiometry="0.004892"/>
+          <speciesReference species="M_pheme_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_mn2_c" stoichiometry="0.000658"/>
+          <speciesReference species="M_asn_DASH_L_c" stoichiometry="0.234232"/>
+          <speciesReference species="M_ser_DASH_L_c" stoichiometry="0.209684"/>
+          <speciesReference species="M_nh4_c" stoichiometry="0.012379"/>
+          <speciesReference species="M_10fthf_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_asp_DASH_L_c" stoichiometry="0.234232"/>
+          <speciesReference species="M_mobd_c" stoichiometry="7e-06"/>
+          <speciesReference species="M_pg161_p" stoichiometry="0.003805"/>
+          <speciesReference species="M_enter_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_dttp_c" stoichiometry="0.024805"/>
+          <speciesReference species="M_mococdp_c" stoichiometry="7e-06"/>
+          <speciesReference species="M_hemeO_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_mocogdp_c" stoichiometry="7e-06"/>
+          <speciesReference species="M_ni2_c" stoichiometry="0.000307"/>
+          <speciesReference species="M_utp_c" stoichiometry="0.140101"/>
+          <speciesReference species="M_atp_c" stoichiometry="54.119975"/>
+          <speciesReference species="M_val_DASH_L_c" stoichiometry="0.411184"/>
+          <speciesReference species="M_mql8_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_adocbl_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_his_DASH_L_c" stoichiometry="0.092056"/>
+          <speciesReference species="M_btn_c" stoichiometry="2e-06"/>
+          <speciesReference species="M_pydx5p_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_bmocogdp_c" stoichiometry="0.000116"/>
+          <speciesReference species="M_k_c" stoichiometry="0.18569"/>
+          <speciesReference species="M_cl_c" stoichiometry="0.004952"/>
+          <speciesReference species="M_2dmmql8_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_coa_c" stoichiometry="0.000168"/>
+          <speciesReference species="M_sheme_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_q8h2_c" stoichiometry="0.000223"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="53.95"/>
@@ -15272,77 +15272,77 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_amet_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_val_DASH_L_c" stoichiometry="0.423162"/>
-          <speciesReference species="M_fe2_c" stoichiometry="0.006715"/>
-          <speciesReference species="M_tyr_DASH_L_c" stoichiometry="0.137896"/>
           <speciesReference species="M_nh4_c" stoichiometry="0.013013"/>
-          <speciesReference species="M_10fthf_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_tyr_DASH_L_c" stoichiometry="0.137896"/>
+          <speciesReference species="M_dgtp_c" stoichiometry="0.027017"/>
           <speciesReference species="M_cobalt2_c" stoichiometry="2.5e-05"/>
+          <speciesReference species="M_fe2_c" stoichiometry="0.006715"/>
           <speciesReference species="M_pe161_c" stoichiometry="0.054154"/>
           <speciesReference species="M_ctp_c" stoichiometry="0.133508"/>
-          <speciesReference species="M_ala_DASH_L_c" stoichiometry="0.513689"/>
           <speciesReference species="M_udcpdp_c" stoichiometry="5.5e-05"/>
-          <speciesReference species="M_phe_DASH_L_c" stoichiometry="0.185265"/>
           <speciesReference species="M_asp_DASH_L_c" stoichiometry="0.241055"/>
+          <speciesReference species="M_phe_DASH_L_c" stoichiometry="0.185265"/>
           <speciesReference species="M_zn2_c" stoichiometry="0.000341"/>
-          <speciesReference species="M_k_c" stoichiometry="0.195193"/>
           <speciesReference species="M_mobd_c" stoichiometry="7e-06"/>
-          <speciesReference species="M_cu2_c" stoichiometry="0.000709"/>
+          <speciesReference species="M_asn_DASH_L_c" stoichiometry="0.241055"/>
           <speciesReference species="M_cl_c" stoichiometry="0.005205"/>
           <speciesReference species="M_2ohph_c" stoichiometry="0.000223"/>
           <speciesReference species="M_4fe4s_c" stoichiometry="0.00026"/>
           <speciesReference species="M_pe160_p" stoichiometry="0.045946"/>
-          <speciesReference species="M_asn_DASH_L_c" stoichiometry="0.241055"/>
+          <speciesReference species="M_nad_c" stoichiometry="0.001831"/>
           <speciesReference species="M_gtp_c" stoichiometry="0.215096"/>
           <speciesReference species="M_nadp_c" stoichiometry="0.000447"/>
           <speciesReference species="M_gln_DASH_L_c" stoichiometry="0.26316"/>
           <speciesReference species="M_ni2_c" stoichiometry="0.000323"/>
           <speciesReference species="M_fad_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_cu2_c" stoichiometry="0.000709"/>
           <speciesReference species="M_utp_c" stoichiometry="0.144104"/>
           <speciesReference species="M_dctp_c" stoichiometry="0.027017"/>
-          <speciesReference species="M_atp_c" stoichiometry="54.124831"/>
+          <speciesReference species="M_cys_DASH_L_c" stoichiometry="0.09158"/>
+          <speciesReference species="M_bmocogdp_c" stoichiometry="0.000122"/>
           <speciesReference species="M_thf_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_nad_c" stoichiometry="0.001831"/>
+          <speciesReference species="M_val_DASH_L_c" stoichiometry="0.423162"/>
           <speciesReference species="M_ca2_c" stoichiometry="0.005205"/>
           <speciesReference species="M_glu_DASH_L_c" stoichiometry="0.26316"/>
           <speciesReference species="M_so4_c" stoichiometry="0.004338"/>
-          <speciesReference species="M_dgtp_c" stoichiometry="0.027017"/>
+          <speciesReference species="M_10fthf_c" stoichiometry="0.000223"/>
           <speciesReference species="M_2fe2s_c" stoichiometry="2.6e-05"/>
+          <speciesReference species="M_ile_DASH_L_c" stoichiometry="0.290529"/>
           <speciesReference species="M_mlthf_c" stoichiometry="0.000223"/>
           <speciesReference species="M_his_DASH_L_c" stoichiometry="0.094738"/>
+          <speciesReference species="M_k_c" stoichiometry="0.195193"/>
           <speciesReference species="M_coa_c" stoichiometry="0.000576"/>
           <speciesReference species="M_pe160_c" stoichiometry="0.017868"/>
+          <speciesReference species="M_met_DASH_L_c" stoichiometry="0.153686"/>
           <speciesReference species="M_mg2_c" stoichiometry="0.008675"/>
           <speciesReference species="M_h2o_c" stoichiometry="48.601527"/>
           <speciesReference species="M_pydx5p_c" stoichiometry="0.000223"/>
           <speciesReference species="M_fe3_c" stoichiometry="0.007808"/>
           <speciesReference species="M_thmpp_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_cys_DASH_L_c" stoichiometry="0.09158"/>
+          <speciesReference species="M_atp_c" stoichiometry="54.124831"/>
           <speciesReference species="M_arg_DASH_L_c" stoichiometry="0.295792"/>
           <speciesReference species="M_pe161_p" stoichiometry="0.02106"/>
           <speciesReference species="M_pro_DASH_L_c" stoichiometry="0.221055"/>
           <speciesReference species="M_dttp_c" stoichiometry="0.026166"/>
-          <speciesReference species="M_bmocogdp_c" stoichiometry="0.000122"/>
-          <speciesReference species="M_sheme_c" stoichiometry="0.000223"/>
-          <speciesReference species="M_ser_DASH_L_c" stoichiometry="0.215792"/>
-          <speciesReference species="M_met_DASH_L_c" stoichiometry="0.153686"/>
+          <speciesReference species="M_ribflv_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_thr_DASH_L_c" stoichiometry="0.253687"/>
           <speciesReference species="M_murein5px4p_p" stoichiometry="0.013894"/>
           <speciesReference species="M_trp_DASH_L_c" stoichiometry="0.056843"/>
           <speciesReference species="M_pheme_c" stoichiometry="0.000223"/>
           <speciesReference species="M_leu_DASH_L_c" stoichiometry="0.450531"/>
           <speciesReference species="M_lys_DASH_L_c" stoichiometry="0.343161"/>
-          <speciesReference species="M_ribflv_c" stoichiometry="0.000223"/>
           <speciesReference species="M_mn2_c" stoichiometry="0.000691"/>
-          <speciesReference species="M_ile_DASH_L_c" stoichiometry="0.290529"/>
+          <speciesReference species="M_gly_c" stoichiometry="0.612638"/>
           <speciesReference species="M_datp_c" stoichiometry="0.026166"/>
           <speciesReference species="M_btn_c" stoichiometry="2e-06"/>
-          <speciesReference species="M_gly_c" stoichiometry="0.612638"/>
-          <speciesReference species="M_thr_DASH_L_c" stoichiometry="0.253687"/>
+          <speciesReference species="M_sheme_c" stoichiometry="0.000223"/>
+          <speciesReference species="M_ala_DASH_L_c" stoichiometry="0.513689"/>
+          <speciesReference species="M_ser_DASH_L_c" stoichiometry="0.215792"/>
           <speciesReference species="M_kdo2lipid4_e" stoichiometry="0.019456"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="53.95"/>
           <speciesReference species="M_pi_c" stoichiometry="53.945662"/>
+          <speciesReference species="M_h_c" stoichiometry="53.95"/>
           <speciesReference species="M_adp_c" stoichiometry="53.95"/>
           <speciesReference species="M_ppi_c" stoichiometry="0.773903"/>
         </listOfProducts>
@@ -16883,7 +16883,7 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_EX_asp_DASH_L_LPAREN_e_RPAREN_" name="L-Aspartate exchange" reversible="false">
+      <reaction id="R_EX_asp_DASH_L_LPAREN_e_RPAREN_" name="L-Aspartate exchange" reversible="true">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>GENE ASSOCIATION: </p>
@@ -16901,7 +16901,7 @@
             <ci> FLUX_VALUE </ci>
           </math>
           <listOfParameters>
-            <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
+            <parameter id="LOWER_BOUND" value="-0.041" units="mmol_per_gDW_per_hr"/>
             <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
             <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
             <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
@@ -19408,7 +19408,7 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_EX_gly_LPAREN_e_RPAREN_" name="Glycine exchange" reversible="false">
+      <reaction id="R_EX_gly_LPAREN_e_RPAREN_" name="Glycine exchange" reversible="true">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>GENE ASSOCIATION: </p>
@@ -19426,7 +19426,7 @@
             <ci> FLUX_VALUE </ci>
           </math>
           <listOfParameters>
-            <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
+            <parameter id="LOWER_BOUND" value="-0.014" units="mmol_per_gDW_per_hr"/>
             <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
             <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
             <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
@@ -24567,8 +24567,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_pe141_c" stoichiometry="1"/>
-          <speciesReference species="M_ppi_c" stoichiometry="1"/>
           <speciesReference species="M_amp_c" stoichiometry="1"/>
+          <speciesReference species="M_ppi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -24593,8 +24593,8 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_hdca_c" stoichiometry="1"/>
-          <speciesReference species="M_atp_c" stoichiometry="1"/>
           <speciesReference species="M_2agpe160_c" stoichiometry="1"/>
+          <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_pe160_c" stoichiometry="1"/>
@@ -25003,9 +25003,9 @@
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_ppi_c" stoichiometry="1"/>
           <speciesReference species="M_amp_c" stoichiometry="1"/>
           <speciesReference species="M_pg160_c" stoichiometry="1"/>
-          <speciesReference species="M_ppi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -25246,9 +25246,9 @@
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_4ampm_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_pi_c" stoichiometry="1"/>
+          <speciesReference species="M_4ampm_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -26011,13 +26011,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_3odecACP_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_nadph_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_3odecACP_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_nadp_c" stoichiometry="1"/>
           <speciesReference species="M_3hdecACP_c" stoichiometry="1"/>
+          <speciesReference species="M_nadp_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -26655,8 +26655,8 @@
           <speciesReference species="M_butACP_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_ACP_c" stoichiometry="1"/>
           <speciesReference species="M_3ohexACP_c" stoichiometry="1"/>
+          <speciesReference species="M_ACP_c" stoichiometry="1"/>
           <speciesReference species="M_co2_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -27289,8 +27289,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_hdca_c" stoichiometry="1"/>
           <speciesReference species="M_ACP_c" stoichiometry="1"/>
+          <speciesReference species="M_hdca_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
@@ -27541,8 +27541,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_unagamuf_c" stoichiometry="1"/>
           <speciesReference species="M_dtdp_c" stoichiometry="1"/>
+          <speciesReference species="M_unagamuf_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -28430,8 +28430,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_acgam6p_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -28599,9 +28599,9 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_pyr_c" stoichiometry="1"/>
           <speciesReference species="M_2obut_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_2ahbut_c" stoichiometry="1"/>
@@ -29847,8 +29847,8 @@
           <speciesReference species="M_4adcho_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_pyr_c" stoichiometry="1"/>
           <speciesReference species="M_4abz_c" stoichiometry="1"/>
+          <speciesReference species="M_pyr_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -30275,13 +30275,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_adocbi_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_adocbi_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_adocbip_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -30309,9 +30309,9 @@
           <speciesReference species="M_agdpcbi_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_adocbl_c" stoichiometry="1"/>
           <speciesReference species="M_gmp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -31354,8 +31354,8 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_hco3_c" stoichiometry="1"/>
-          <speciesReference species="M_air_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_air_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
@@ -32030,9 +32030,9 @@
           <speciesReference species="M_nad_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="2"/>
-          <speciesReference species="M_nadh_c" stoichiometry="1"/>
           <speciesReference species="M_ac_c" stoichiometry="1"/>
+          <speciesReference species="M_nadh_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="2"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -32061,8 +32061,8 @@
           <speciesReference species="M_acald_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="2"/>
           <speciesReference species="M_ac_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="2"/>
           <speciesReference species="M_nadph_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -32148,13 +32148,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_all_DASH_D_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_all_DASH_D_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_all6p_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -32787,9 +32787,9 @@
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_acmanap_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_acmanap_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -32846,9 +32846,9 @@
           <speciesReference species="M_2dmmql8_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_mql8_c" stoichiometry="1"/>
           <speciesReference species="M_ahcys_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_mql8_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -33224,8 +33224,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="2"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ap4a_c" stoichiometry="1"/>
@@ -33558,8 +33558,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="2"/>
-          <speciesReference species="M_pi_c" stoichiometry="1"/>
           <speciesReference species="M_ttdca_c" stoichiometry="1"/>
+          <speciesReference species="M_pi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -33673,8 +33673,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_ocdcap_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ocdca_c" stoichiometry="1"/>
@@ -34376,8 +34376,8 @@
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_argsuc_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
           <speciesReference species="M_amp_c" stoichiometry="1"/>
         </listOfProducts>
@@ -34409,8 +34409,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_argtrna_c" stoichiometry="1"/>
-          <speciesReference species="M_ppi_c" stoichiometry="1"/>
           <speciesReference species="M_amp_c" stoichiometry="1"/>
+          <speciesReference species="M_ppi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -34703,10 +34703,10 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_glu_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_amp_c" stoichiometry="1"/>
-          <speciesReference species="M_ppi_c" stoichiometry="1"/>
+          <speciesReference species="M_glu_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_asn_DASH_L_c" stoichiometry="1"/>
+          <speciesReference species="M_ppi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -34736,9 +34736,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_amp_c" stoichiometry="1"/>
           <speciesReference species="M_asn_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
-          <speciesReference species="M_amp_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -36383,9 +36383,9 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
           <speciesReference species="M_cbi_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_pppi_c" stoichiometry="1"/>
@@ -36535,9 +36535,9 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
           <speciesReference species="M_cbl1_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_pppi_c" stoichiometry="1"/>
@@ -36724,8 +36724,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_p" stoichiometry="1"/>
           <speciesReference species="M_cd2_c" stoichiometry="1"/>
+          <speciesReference species="M_h_p" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
@@ -36837,13 +36837,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_cdpdtdecg_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_pa140_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="2"/>
           <speciesReference species="M_cmp_c" stoichiometry="1"/>
+          <speciesReference species="M_pa140_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -36871,8 +36871,8 @@
           <speciesReference species="M_cdpdtdec7eg_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_pa141_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="2"/>
+          <speciesReference species="M_pa141_c" stoichiometry="1"/>
           <speciesReference species="M_cmp_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -36901,8 +36901,8 @@
           <speciesReference species="M_cdpdhdecg_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_pa160_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="2"/>
+          <speciesReference species="M_pa160_c" stoichiometry="1"/>
           <speciesReference species="M_cmp_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -36927,13 +36927,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_cdpdhdec9eg_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_pa161_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="2"/>
           <speciesReference species="M_cmp_c" stoichiometry="1"/>
+          <speciesReference species="M_pa161_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -36957,13 +36957,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_cdpdodecg_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_pa180_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="2"/>
           <speciesReference species="M_cmp_c" stoichiometry="1"/>
+          <speciesReference species="M_pa180_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -38512,8 +38512,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_colipa_c" stoichiometry="1"/>
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
+          <speciesReference species="M_colipa_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
@@ -38782,8 +38782,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_p" stoichiometry="1"/>
           <speciesReference species="M_cpgn_e" stoichiometry="1"/>
+          <speciesReference species="M_h_p" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
@@ -39874,9 +39874,9 @@
           <speciesReference species="M_cyan_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_so3_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_tcynt_c" stoichiometry="1"/>
-          <speciesReference species="M_so3_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -40165,9 +40165,9 @@
           <speciesReference species="M_h2s_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_ac_c" stoichiometry="1"/>
           <speciesReference species="M_cys_DASH_L_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -40256,8 +40256,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_cystrna_c" stoichiometry="1"/>
-          <speciesReference species="M_amp_c" stoichiometry="1"/>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
+          <speciesReference species="M_amp_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -40434,9 +40434,9 @@
           <speciesReference species="M_q8h2_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_p" stoichiometry="2"/>
-          <speciesReference species="M_q8_c" stoichiometry="1"/>
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
+          <speciesReference species="M_q8_c" stoichiometry="1"/>
+          <speciesReference species="M_h_p" stoichiometry="2"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -40465,9 +40465,9 @@
           <speciesReference species="M_q8h2_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_p" stoichiometry="4"/>
-          <speciesReference species="M_q8_c" stoichiometry="1"/>
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
+          <speciesReference species="M_q8_c" stoichiometry="1"/>
+          <speciesReference species="M_h_p" stoichiometry="4"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -40960,8 +40960,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
-          <speciesReference species="M_pa140_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_pa140_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -41015,12 +41015,12 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_12dgr160_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_12dgr160_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_pa160_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
+          <speciesReference species="M_pa160_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -41045,12 +41045,12 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_12dgr161_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_12dgr161_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_pa161_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
+          <speciesReference species="M_pa161_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -41391,13 +41391,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_ctp_c" stoichiometry="1"/>
           <speciesReference species="M_pa140_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_ppi_c" stoichiometry="1"/>
           <speciesReference species="M_cdpdtdecg_c" stoichiometry="1"/>
+          <speciesReference species="M_ppi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -41421,9 +41421,9 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_pa141_c" stoichiometry="1"/>
           <speciesReference species="M_ctp_c" stoichiometry="1"/>
+          <speciesReference species="M_pa141_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
@@ -41451,9 +41451,9 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_pa160_c" stoichiometry="1"/>
           <speciesReference species="M_ctp_c" stoichiometry="1"/>
+          <speciesReference species="M_pa160_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
@@ -41481,9 +41481,9 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_pa161_c" stoichiometry="1"/>
           <speciesReference species="M_ctp_c" stoichiometry="1"/>
+          <speciesReference species="M_pa161_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
@@ -41511,13 +41511,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_pa180_c" stoichiometry="1"/>
           <speciesReference species="M_ctp_c" stoichiometry="1"/>
+          <speciesReference species="M_pa180_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cdpdodecg_c" stoichiometry="1"/>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
+          <speciesReference species="M_cdpdodecg_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -42345,8 +42345,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_nadh_c" stoichiometry="1"/>
-          <speciesReference species="M_23dhb_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_23dhb_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -43421,13 +43421,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_mql8_c" stoichiometry="1"/>
           <speciesReference species="M_dmso_c" stoichiometry="1"/>
+          <speciesReference species="M_mql8_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_mqn8_c" stoichiometry="1"/>
-          <speciesReference species="M_dms_c" stoichiometry="1"/>
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
+          <speciesReference species="M_dms_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -43481,13 +43481,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_2dmmql8_c" stoichiometry="1"/>
           <speciesReference species="M_dmso_c" stoichiometry="1"/>
+          <speciesReference species="M_2dmmql8_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_dms_c" stoichiometry="1"/>
           <speciesReference species="M_2dmmq8_c" stoichiometry="1"/>
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
-          <speciesReference species="M_dms_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -43764,8 +43764,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_doxrbcn_p" stoichiometry="1"/>
           <speciesReference species="M_h_p" stoichiometry="1"/>
+          <speciesReference species="M_doxrbcn_p" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
@@ -43793,8 +43793,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_atp_c" stoichiometry="1"/>
           <speciesReference species="M_dpcoa_c" stoichiometry="1"/>
+          <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_coa_c" stoichiometry="1"/>
@@ -44258,8 +44258,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_dump_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -44403,8 +44403,8 @@
           <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_nadp_c" stoichiometry="1"/>
           <speciesReference species="M_2me4p_c" stoichiometry="1"/>
+          <speciesReference species="M_nadp_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -44462,9 +44462,9 @@
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_dxyl5p_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_dxyl5p_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -44644,8 +44644,8 @@
           <speciesReference species="M_t3c5ddeceACP_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_nad_c" stoichiometry="1"/>
           <speciesReference species="M_cddec5eACP_c" stoichiometry="1"/>
+          <speciesReference species="M_nad_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -44674,8 +44674,8 @@
           <speciesReference species="M_t3c5ddeceACP_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_nadp_c" stoichiometry="1"/>
           <speciesReference species="M_cddec5eACP_c" stoichiometry="1"/>
+          <speciesReference species="M_nadp_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -45060,8 +45060,8 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_nadh_c" stoichiometry="1"/>
-          <speciesReference species="M_but2eACP_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_but2eACP_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_butACP_c" stoichiometry="1"/>
@@ -45089,9 +45089,9 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_but2eACP_c" stoichiometry="1"/>
           <speciesReference species="M_nadph_c" stoichiometry="1"/>
+          <speciesReference species="M_but2eACP_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_butACP_c" stoichiometry="1"/>
@@ -47201,9 +47201,9 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_fad_c" stoichiometry="1"/>
           <speciesReference species="M_nadph_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_fadh2_c" stoichiometry="1"/>
@@ -47455,13 +47455,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_fcl_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_fcl_DASH_L_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_fc1p_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -47605,8 +47605,8 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_o2_c" stoichiometry="1"/>
-          <speciesReference species="M_fmnh2_c" stoichiometry="1"/>
           <speciesReference species="M_isetac_c" stoichiometry="1"/>
+          <speciesReference species="M_fmnh2_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
@@ -47742,10 +47742,10 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_so3_c" stoichiometry="1"/>
           <speciesReference species="M_glx_c" stoichiometry="1"/>
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_fmn_c" stoichiometry="1"/>
-          <speciesReference species="M_so3_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -48302,9 +48302,9 @@
           <speciesReference species="M_fadh2_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="2"/>
-          <speciesReference species="M_fad_c" stoichiometry="1"/>
           <speciesReference species="M_fe2_c" stoichiometry="2"/>
+          <speciesReference species="M_fad_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="2"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -48389,8 +48389,8 @@
           <speciesReference species="M_fadh2_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="2"/>
           <speciesReference species="M_fecrm_DASH_un_c" stoichiometry="2"/>
+          <speciesReference species="M_h_c" stoichiometry="2"/>
           <speciesReference species="M_fad_c" stoichiometry="1"/>
           <speciesReference species="M_fe2_c" stoichiometry="2"/>
         </listOfProducts>
@@ -48449,9 +48449,9 @@
           <speciesReference species="M_rbflvrd_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="2"/>
           <speciesReference species="M_fecrm_DASH_un_c" stoichiometry="2"/>
           <speciesReference species="M_ribflv_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="2"/>
           <speciesReference species="M_fe2_c" stoichiometry="2"/>
         </listOfProducts>
         <kineticLaw>
@@ -49335,8 +49335,8 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_nadh_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_ribflv_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_nad_c" stoichiometry="1"/>
@@ -49364,13 +49364,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_10fthf_c" stoichiometry="1"/>
           <speciesReference species="M_mettrna_c" stoichiometry="1"/>
+          <speciesReference species="M_10fthf_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_thf_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_fmettrna_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -49773,9 +49773,9 @@
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_frulysp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -51097,8 +51097,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_glyc3p_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_glyc_c" stoichiometry="1"/>
@@ -51667,13 +51667,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_gal_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_gal_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_gal1p_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -51757,9 +51757,9 @@
           <speciesReference species="M_udpg_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_udp_c" stoichiometry="1"/>
           <speciesReference species="M_gagicolipa_c" stoichiometry="1"/>
+          <speciesReference species="M_udp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -51895,9 +51895,9 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_g1p_c" stoichiometry="1"/>
           <speciesReference species="M_utp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
@@ -52156,13 +52156,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_10fthf_c" stoichiometry="1"/>
           <speciesReference species="M_gar_c" stoichiometry="1"/>
+          <speciesReference species="M_10fthf_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_fgam_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_thf_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -52538,14 +52538,14 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_o2_c" stoichiometry="1"/>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_ggptrc_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
+          <speciesReference species="M_o2_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_nh4_c" stoichiometry="1"/>
-          <speciesReference species="M_ggbutal_c" stoichiometry="1"/>
           <speciesReference species="M_h2o2_c" stoichiometry="1"/>
+          <speciesReference species="M_ggbutal_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -53030,13 +53030,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_icolipa_c" stoichiometry="1"/>
           <speciesReference species="M_udpg_c" stoichiometry="1"/>
+          <speciesReference species="M_icolipa_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_gicolipa_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_udp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -53064,9 +53064,9 @@
           <speciesReference species="M_udpg_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_ggagicolipa_c" stoichiometry="1"/>
           <speciesReference species="M_udp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -53094,9 +53094,9 @@
           <speciesReference species="M_ggagicolipa_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_udp_c" stoichiometry="1"/>
           <speciesReference species="M_gggagicolipa_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -53203,14 +53203,14 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_glc_DASH_D_p" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_glc_DASH_D_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
+          <speciesReference species="M_glc_DASH_D_c" stoichiometry="1"/>
           <speciesReference species="M_pi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -54292,8 +54292,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_glyc3p_p" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
@@ -54848,9 +54848,9 @@
           <speciesReference species="M_glyc_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_glyc3p_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_glyc3p_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -54933,13 +54933,13 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_gly_c" stoichiometry="1"/>
-          <speciesReference species="M_atp_c" stoichiometry="1"/>
           <speciesReference species="M_trnagly_c" stoichiometry="1"/>
+          <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_glytrna_c" stoichiometry="1"/>
-          <speciesReference species="M_amp_c" stoichiometry="1"/>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
+          <speciesReference species="M_amp_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -55290,8 +55290,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_nadph_c" stoichiometry="1"/>
-          <speciesReference species="M_co2_c" stoichiometry="1"/>
           <speciesReference species="M_ru5p_DASH_D_c" stoichiometry="1"/>
+          <speciesReference species="M_co2_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -55315,8 +55315,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_glcn_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_glcn_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
@@ -55648,8 +55648,8 @@
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_glyc3p_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_glyc3p_c" stoichiometry="1"/>
           <speciesReference species="M_inost_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -56238,13 +56238,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_gtp_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_gtp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_amp_c" stoichiometry="1"/>
           <speciesReference species="M_gdptp_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_amp_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -56827,8 +56827,8 @@
           <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_3hhcoa_c" stoichiometry="1"/>
           <speciesReference species="M_nad_c" stoichiometry="1"/>
+          <speciesReference species="M_3hhcoa_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -57349,8 +57349,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_hphhlipa_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_hphhlipa_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
@@ -57443,9 +57443,9 @@
           <speciesReference species="M_adphep_DASH_LD_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_hphhlipa_c" stoichiometry="1"/>
-          <speciesReference species="M_adp_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -57469,8 +57469,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_gggagicolipa_c" stoichiometry="1"/>
           <speciesReference species="M_adphep_DASH_LD_c" stoichiometry="1"/>
+          <speciesReference species="M_gggagicolipa_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
@@ -57504,8 +57504,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_4mpetz_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -57529,8 +57529,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_glc_DASH_D_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_glc_DASH_D_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
@@ -57562,8 +57562,8 @@
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_man6p_c" stoichiometry="1"/>
+          <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -57796,8 +57796,8 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_his_DASH_L_c" stoichiometry="1"/>
-          <speciesReference species="M_atp_c" stoichiometry="1"/>
           <speciesReference species="M_trnahis_c" stoichiometry="1"/>
+          <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_histrna_c" stoichiometry="1"/>
@@ -57944,8 +57944,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_hkntd_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_fum_c" stoichiometry="1"/>
@@ -58121,9 +58121,9 @@
           <speciesReference species="M_6hmhpt_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_6hmhptpp_c" stoichiometry="1"/>
           <speciesReference species="M_amp_c" stoichiometry="1"/>
+          <speciesReference species="M_6hmhptpp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -58264,8 +58264,8 @@
           <speciesReference species="M_hpyr_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_nad_c" stoichiometry="1"/>
           <speciesReference species="M_glyc_DASH_R_c" stoichiometry="1"/>
+          <speciesReference species="M_nad_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -58349,13 +58349,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_atp_c" stoichiometry="1"/>
           <speciesReference species="M_hom_DASH_L_c" stoichiometry="1"/>
+          <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_phom_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -58437,9 +58437,9 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_hxan_c" stoichiometry="1"/>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_nad_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
+          <speciesReference species="M_hxan_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
@@ -59341,8 +59341,8 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_trnaile_c" stoichiometry="1"/>
-          <speciesReference species="M_ile_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_ile_DASH_L_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_iletrna_c" stoichiometry="1"/>
@@ -60158,9 +60158,9 @@
           </html>
         </notes>
         <listOfReactants>
+          <speciesReference species="M_2ahbut_c" stoichiometry="1"/>
           <speciesReference species="M_nadph_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_2ahbut_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_23dhmp_c" stoichiometry="1"/>
@@ -60885,8 +60885,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_LalaLglu_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ala_DASH_L_c" stoichiometry="1"/>
@@ -60949,8 +60949,8 @@
           <speciesReference species="M_lald_DASH_D_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_nad_c" stoichiometry="1"/>
           <speciesReference species="M_12ppd_DASH_R_c" stoichiometry="1"/>
+          <speciesReference species="M_nad_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -61573,11 +61573,11 @@
           <speciesReference species="M_nad_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_lipopb_c" stoichiometry="1"/>
           <speciesReference species="M_dad_DASH_5_c" stoichiometry="2"/>
           <speciesReference species="M_2fe2s_c" stoichiometry="1"/>
-          <speciesReference species="M_nadh_c" stoichiometry="1"/>
+          <speciesReference species="M_lipopb_c" stoichiometry="1"/>
           <speciesReference species="M_met_DASH_L_c" stoichiometry="2"/>
+          <speciesReference species="M_nadh_c" stoichiometry="1"/>
           <speciesReference species="M_fe2_c" stoichiometry="2"/>
         </listOfProducts>
         <kineticLaw>
@@ -61811,9 +61811,9 @@
           <speciesReference species="M_h2o_p" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_glyc3p_p" stoichiometry="1"/>
           <speciesReference species="M_h_p" stoichiometry="1"/>
           <speciesReference species="M_hdcea_p" stoichiometry="1"/>
+          <speciesReference species="M_glyc3p_p" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -62047,13 +62047,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_1agpe180_p" stoichiometry="1"/>
           <speciesReference species="M_h2o_p" stoichiometry="1"/>
+          <speciesReference species="M_1agpe180_p" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_g3pe_p" stoichiometry="1"/>
-          <speciesReference species="M_ocdca_p" stoichiometry="1"/>
           <speciesReference species="M_h_p" stoichiometry="1"/>
+          <speciesReference species="M_ocdca_p" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -62352,8 +62352,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_glyc3p_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="2"/>
           <speciesReference species="M_ttdca_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="2"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -62381,8 +62381,8 @@
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_glyc3p_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="2"/>
+          <speciesReference species="M_glyc3p_c" stoichiometry="1"/>
           <speciesReference species="M_ttdcea_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -62937,9 +62937,9 @@
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_g3pe_c" stoichiometry="1"/>
           <speciesReference species="M_ddca_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_g3pe_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -62997,8 +62997,8 @@
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_g3pe_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_g3pe_c" stoichiometry="1"/>
           <speciesReference species="M_ttdcea_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -63147,9 +63147,9 @@
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_g3pg_c" stoichiometry="1"/>
           <speciesReference species="M_ddca_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_g3pg_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -63237,8 +63237,8 @@
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_g3pg_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_hdca_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -63417,9 +63417,9 @@
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_lystrna_c" stoichiometry="1"/>
-          <speciesReference species="M_ppi_c" stoichiometry="1"/>
           <speciesReference species="M_amp_c" stoichiometry="1"/>
+          <speciesReference species="M_ppi_c" stoichiometry="1"/>
+          <speciesReference species="M_lystrna_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -64060,8 +64060,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_maltttr_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
+          <speciesReference species="M_maltttr_c" stoichiometry="1"/>
           <speciesReference species="M_pi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -64201,8 +64201,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_mal_DASH_L_p" stoichiometry="1"/>
           <speciesReference species="M_h_p" stoichiometry="2"/>
+          <speciesReference species="M_mal_DASH_L_p" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="2"/>
@@ -64230,8 +64230,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_mal_DASH_L_p" stoichiometry="1"/>
           <speciesReference species="M_h_p" stoichiometry="3"/>
+          <speciesReference species="M_mal_DASH_L_p" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="3"/>
@@ -64258,8 +64258,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_mal_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_h_p" stoichiometry="1"/>
+          <speciesReference species="M_mal_DASH_L_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
@@ -65085,13 +65085,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_mal_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_nad_c" stoichiometry="1"/>
+          <speciesReference species="M_mal_DASH_L_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_nadh_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_oaa_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -65173,8 +65173,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_mal_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_nad_c" stoichiometry="1"/>
+          <speciesReference species="M_mal_DASH_L_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_nadh_c" stoichiometry="1"/>
@@ -65203,8 +65203,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_mal_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_nadp_c" stoichiometry="1"/>
+          <speciesReference species="M_mal_DASH_L_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_pyr_c" stoichiometry="1"/>
@@ -65436,8 +65436,8 @@
           <speciesReference species="M_ctp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_4c2me_c" stoichiometry="1"/>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
+          <speciesReference species="M_4c2me_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -65821,8 +65821,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_mettrna_c" stoichiometry="1"/>
-          <speciesReference species="M_ppi_c" stoichiometry="1"/>
           <speciesReference species="M_amp_c" stoichiometry="1"/>
+          <speciesReference species="M_ppi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -66047,8 +66047,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_mi1p_DASH_D_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_inost_c" stoichiometry="1"/>
@@ -67271,8 +67271,8 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_h_c" stoichiometry="2"/>
-          <speciesReference species="M_mobd_c" stoichiometry="1"/>
           <speciesReference species="M_mptamp_c" stoichiometry="1"/>
+          <speciesReference species="M_mobd_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_moco_c" stoichiometry="1"/>
@@ -67361,8 +67361,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_mal_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_o2_c" stoichiometry="1"/>
+          <speciesReference species="M_mal_DASH_L_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_oaa_c" stoichiometry="1"/>
@@ -69116,13 +69116,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_nmn_p" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_r5p_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_ncam_c" stoichiometry="1"/>
-          <speciesReference species="M_r5p_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -69788,8 +69788,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_imp_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ins_c" stoichiometry="1"/>
@@ -70281,8 +70281,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_dgmp_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_dgsn_c" stoichiometry="1"/>
@@ -70427,8 +70427,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_itp_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_idp_c" stoichiometry="1"/>
@@ -70457,8 +70457,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_ditp_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_didp_c" stoichiometry="1"/>
@@ -70487,8 +70487,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_xtp_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_xdp_c" stoichiometry="1"/>
@@ -70577,8 +70577,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_ctp_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_cdp_c" stoichiometry="1"/>
@@ -70757,8 +70757,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_ctp_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
@@ -70817,8 +70817,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
@@ -70881,9 +70881,9 @@
           <speciesReference species="M_utp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_ump_c" stoichiometry="1"/>
-          <speciesReference species="M_ppi_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_ppi_c" stoichiometry="1"/>
+          <speciesReference species="M_ump_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -71329,9 +71329,9 @@
           <speciesReference species="M_udpg_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_garagund_c" stoichiometry="1"/>
           <speciesReference species="M_udp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -71358,9 +71358,9 @@
           <speciesReference species="M_gfgaragund_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_udp_c" stoichiometry="1"/>
           <speciesReference species="M_o16aund_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -72431,8 +72431,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_oxur_c" stoichiometry="1"/>
           <speciesReference species="M_pi_c" stoichiometry="1"/>
+          <speciesReference species="M_oxur_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_cbp_c" stoichiometry="1"/>
@@ -72549,9 +72549,9 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_1pyr5c_c" stoichiometry="1"/>
-          <speciesReference species="M_h2o_c" stoichiometry="2"/>
           <speciesReference species="M_nad_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="2"/>
+          <speciesReference species="M_1pyr5c_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
@@ -73454,8 +73454,8 @@
           <speciesReference species="M_grxrd_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="2"/>
           <speciesReference species="M_so3_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="2"/>
           <speciesReference species="M_pap_c" stoichiometry="1"/>
           <speciesReference species="M_grxox_c" stoichiometry="1"/>
         </listOfProducts>
@@ -73633,10 +73633,10 @@
           <speciesReference species="M_nad_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_co2_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_h2o_c" stoichiometry="2"/>
           <speciesReference species="M_nadh_c" stoichiometry="1"/>
+          <speciesReference species="M_co2_c" stoichiometry="1"/>
           <speciesReference species="M_pi_c" stoichiometry="1"/>
           <speciesReference species="M_pdx5p_c" stoichiometry="1"/>
         </listOfProducts>
@@ -73755,14 +73755,14 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_pe141_c" stoichiometry="1"/>
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
+          <speciesReference species="M_pe141_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_pe141_p" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
+          <speciesReference species="M_pe141_p" stoichiometry="1"/>
           <speciesReference species="M_pi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -73920,8 +73920,8 @@
           <speciesReference species="M_peamn_p" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_pacald_p" stoichiometry="1"/>
           <speciesReference species="M_nh4_p" stoichiometry="1"/>
+          <speciesReference species="M_pacald_p" stoichiometry="1"/>
           <speciesReference species="M_h2o2_p" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -74095,8 +74095,8 @@
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_tagdp_DASH_D_c" stoichiometry="1"/>
+          <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -75293,9 +75293,9 @@
           <speciesReference species="M_glyc3p_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_pgp140_c" stoichiometry="1"/>
           <speciesReference species="M_cmp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -75383,9 +75383,9 @@
           <speciesReference species="M_cdpdhdec9eg_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_pgp161_c" stoichiometry="1"/>
           <speciesReference species="M_cmp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -75531,8 +75531,8 @@
           <speciesReference species="M_phe_DASH_L_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_phpyr_c" stoichiometry="1"/>
           <speciesReference species="M_glu_DASH_L_c" stoichiometry="1"/>
+          <speciesReference species="M_phpyr_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -76382,8 +76382,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_p" stoichiometry="1"/>
           <speciesReference species="M_pa120_p" stoichiometry="1"/>
+          <speciesReference species="M_h2o_p" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ddca_p" stoichiometry="1"/>
@@ -76806,8 +76806,8 @@
           <speciesReference species="M_pg120_p" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_1agpg120_p" stoichiometry="1"/>
           <speciesReference species="M_ddca_p" stoichiometry="1"/>
+          <speciesReference species="M_1agpg120_p" stoichiometry="1"/>
           <speciesReference species="M_h_p" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -77279,8 +77279,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ac_c" stoichiometry="1"/>
-          <speciesReference species="M_co2_c" stoichiometry="1"/>
           <speciesReference species="M_q8h2_c" stoichiometry="1"/>
+          <speciesReference species="M_co2_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -77333,8 +77333,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_pppi_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
@@ -77852,8 +77852,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_pphn_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_co2_c" stoichiometry="1"/>
@@ -78027,14 +78027,14 @@
           </html>
         </notes>
         <listOfReactants>
+          <speciesReference species="M_pyr_c" stoichiometry="1"/>
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
-          <speciesReference species="M_pyr_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="2"/>
-          <speciesReference species="M_pep_c" stoichiometry="1"/>
           <speciesReference species="M_amp_c" stoichiometry="1"/>
+          <speciesReference species="M_pep_c" stoichiometry="1"/>
           <speciesReference species="M_pi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -78147,8 +78147,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_atp_c" stoichiometry="1"/>
           <speciesReference species="M_fpram_c" stoichiometry="1"/>
+          <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="2"/>
@@ -78269,9 +78269,9 @@
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
           <speciesReference species="M_prbamp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -78356,13 +78356,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_pro_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_fad_c" stoichiometry="1"/>
+          <speciesReference species="M_pro_DASH_L_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_fadh2_c" stoichiometry="1"/>
           <speciesReference species="M_1pyr5c_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -79322,9 +79322,9 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
           <speciesReference species="M_pan4p_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ppi_c" stoichiometry="1"/>
@@ -79556,8 +79556,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_gsn_c" stoichiometry="1"/>
           <speciesReference species="M_pi_c" stoichiometry="1"/>
+          <speciesReference species="M_gsn_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_gua_c" stoichiometry="1"/>
@@ -79585,8 +79585,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_pi_c" stoichiometry="1"/>
           <speciesReference species="M_dgsn_c" stoichiometry="1"/>
+          <speciesReference species="M_pi_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_2dr1p_c" stoichiometry="1"/>
@@ -79618,8 +79618,8 @@
           <speciesReference species="M_ins_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_hxan_c" stoichiometry="1"/>
           <speciesReference species="M_r1p_c" stoichiometry="1"/>
+          <speciesReference species="M_hxan_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -79701,14 +79701,14 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_o2_c" stoichiometry="1"/>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_pyam5p_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
+          <speciesReference species="M_o2_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_nh4_c" stoichiometry="1"/>
-          <speciesReference species="M_pydx5p_c" stoichiometry="1"/>
           <speciesReference species="M_h2o2_c" stoichiometry="1"/>
+          <speciesReference species="M_pydx5p_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -79820,8 +79820,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_pydx5p_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -80386,12 +80386,12 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_r5p_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_pi_c" stoichiometry="1"/>
           <speciesReference species="M_rib_DASH_D_c" stoichiometry="1"/>
+          <speciesReference species="M_pi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -80589,8 +80589,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_rbl_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_rbl_DASH_L_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ru5p_DASH_L_c" stoichiometry="1"/>
@@ -80873,13 +80873,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_rml_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_rml_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_rml1p_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -81232,9 +81232,9 @@
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_datp_c" stoichiometry="1"/>
-          <speciesReference species="M_flxso_c" stoichiometry="2"/>
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
+          <speciesReference species="M_flxso_c" stoichiometry="2"/>
+          <speciesReference species="M_datp_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -81405,8 +81405,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_5prdmbz_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_rdmbzi_c" stoichiometry="1"/>
@@ -81479,8 +81479,8 @@
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="7"/>
           <speciesReference species="M_sufse_c" stoichiometry="2"/>
-          <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_fad_c" stoichiometry="1"/>
+          <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_sufbcd_DASH_2fe2s_c" stoichiometry="1"/>
           <speciesReference species="M_pi_c" stoichiometry="1"/>
         </listOfProducts>
@@ -81517,8 +81517,8 @@
           <speciesReference species="M_sufbcd_DASH_2fe2s2_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="7"/>
           <speciesReference species="M_sufse_c" stoichiometry="2"/>
-          <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_fad_c" stoichiometry="1"/>
+          <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_pi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -82313,8 +82313,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_sertrna_c" stoichiometry="1"/>
-          <speciesReference species="M_ppi_c" stoichiometry="1"/>
           <speciesReference species="M_amp_c" stoichiometry="1"/>
+          <speciesReference species="M_ppi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -82606,8 +82606,8 @@
           <speciesReference species="M_scl_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="3"/>
           <speciesReference species="M_sheme_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="3"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -82666,8 +82666,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
-          <speciesReference species="M_skm5p_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_skm5p_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -84054,11 +84054,11 @@
           <speciesReference species="M_o2_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_so3_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_aacald_c" stoichiometry="1"/>
           <speciesReference species="M_co2_c" stoichiometry="1"/>
           <speciesReference species="M_succ_c" stoichiometry="1"/>
-          <speciesReference species="M_so3_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -85125,9 +85125,9 @@
         <listOfReactants>
           <speciesReference species="M_iscssh_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_nadph_c" stoichiometry="1"/>
           <speciesReference species="M_dxyl5p_c" stoichiometry="1"/>
           <speciesReference species="M_dhgly_c" stoichiometry="1"/>
-          <speciesReference species="M_nadph_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
@@ -85219,8 +85219,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_mql8_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_mql8_c" stoichiometry="1"/>
           <speciesReference species="M_tmao_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
@@ -85287,8 +85287,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_tma_c" stoichiometry="1"/>
-          <speciesReference species="M_2dmmq8_c" stoichiometry="1"/>
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
+          <speciesReference species="M_2dmmq8_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -85402,8 +85402,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_dtmp_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -85489,9 +85489,9 @@
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_thmmp_c" stoichiometry="1"/>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_thmmp_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -85722,9 +85722,9 @@
           <speciesReference species="M_udpg_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_tre6p_c" stoichiometry="1"/>
           <speciesReference species="M_udp_c" stoichiometry="1"/>
+          <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -85977,14 +85977,14 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_trp_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_trnatrp_c" stoichiometry="1"/>
+          <speciesReference species="M_trp_DASH_L_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_trptrna_c" stoichiometry="1"/>
-          <speciesReference species="M_ppi_c" stoichiometry="1"/>
           <speciesReference species="M_amp_c" stoichiometry="1"/>
+          <speciesReference species="M_ppi_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -86069,8 +86069,8 @@
           <speciesReference species="M_h_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_nad_c" stoichiometry="1"/>
           <speciesReference species="M_glyc_DASH_R_c" stoichiometry="1"/>
+          <speciesReference species="M_nad_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -87034,8 +87034,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1"/>
           <speciesReference species="M_udcpdp_c" stoichiometry="1"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_udcpp_c" stoichiometry="1"/>
@@ -87762,8 +87762,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_ump_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_ump_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_adp_c" stoichiometry="1"/>
@@ -87997,8 +87997,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_poaac_c" stoichiometry="1"/>
           <speciesReference species="M_cbm_c" stoichiometry="1"/>
+          <speciesReference species="M_poaac_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -88190,14 +88190,14 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_o2_c" stoichiometry="1"/>
           <speciesReference species="M_urate_c" stoichiometry="1"/>
+          <speciesReference species="M_o2_c" stoichiometry="1"/>
           <speciesReference species="M_h2o_c" stoichiometry="2"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_co2_c" stoichiometry="1"/>
-          <speciesReference species="M_alltn_c" stoichiometry="1"/>
           <speciesReference species="M_h2o2_c" stoichiometry="1"/>
+          <speciesReference species="M_alltn_c" stoichiometry="1"/>
+          <speciesReference species="M_co2_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -88939,8 +88939,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_xylu_DASH_D_c" stoichiometry="1"/>
           <speciesReference species="M_atp_c" stoichiometry="1"/>
+          <speciesReference species="M_xylu_DASH_D_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_xu5p_DASH_D_c" stoichiometry="1"/>

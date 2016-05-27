@@ -11,10 +11,10 @@ L-Tyrosine,-0.035
 L-Tryptophan,0
 L-Serine,-1.722
 L-Arginine,-1.17
-L-Aspartic Acid,-0.041
+L-Aspartate,-0.041
 L-Lysine,-0.1
 L-Alanine,-0.369
-L-Glycine,-0.014
+Glycine,-0.014
 L-Glutamine,-0.445
-L-Glutamic Acid,0
+L-Glutamate,0
 L-Methionine,-0.084

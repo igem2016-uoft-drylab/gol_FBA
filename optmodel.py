@@ -14,7 +14,7 @@ from os.path import join
 model_name = sys.argv[1]
 
 print("importing the SBML file... {}".format(model_name))
-model = cobra.io.sbml.create_cobra_model_from_sbml_file('/home/protoxpire0/Projects/gol_FBA/{}'.format(model_name),old_sbml=False,legacy_metabolite=False,print_time=False,use_hyphens=False)
+model = cobra.io.sbml.create_cobra_model_from_sbml_file('{}'.format(model_name),old_sbml=False,legacy_metabolite=False,print_time=False,use_hyphens=False)
 
 model.repair()
 

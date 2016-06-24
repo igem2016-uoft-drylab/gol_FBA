@@ -2,7 +2,7 @@
 ###Objective: Recreate a ecoli model with the beta-gal-cleave-rxn
 ###Date Created: May 27, 2016
 ###Date Last Modified: May 27, 2016
-###Contributors: Fahim, Zakary, Heba, Mike, Zian
+###Contributors: Fahim, Zakary, Heba, Mike, Zian, Leon
 
 # import these things
 from cobra import Model, Reaction, Metabolite, Gene

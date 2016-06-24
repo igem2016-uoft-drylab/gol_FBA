@@ -1,0 +1,34 @@
+IN FLUXES                     OUT FLUXES                    OBJECTIVES          
+o2_e           -22.855974     h2o_e       49.426438         Ec_biomass_iJO1366_core_53p95M    1.369
+glc_DASH_D_e   -10.000000     co2_e       27.471399                             
+nh4_e           -4.710780     h_e          3.899772                             
+ser_DASH_L_e    -1.722000     mththf_c     0.000613                             
+pi_e            -1.320801     5drib_c      0.000308                             
+arg_DASH_L_e    -1.170000     4crsol_c     0.000305                             
+ura_e           -0.452934     amob_c       0.000003                             
+gln_DASH_L_e    -0.445000     meoh_e       0.000003                             
+ala_DASH_L_e    -0.369000                                                       
+thr_DASH_L_e    -0.288000                                                       
+k_e             -0.267264                                                       
+so4_e           -0.261333                                                       
+his_DASH_L_e    -0.129718                                                       
+pro_DASH_L_e    -0.100000                                                       
+phe_DASH_L_e    -0.100000                                                       
+leu_DASH_L_e    -0.100000                                                       
+lys_DASH_L_e    -0.100000                                                       
+ile_DASH_L_e    -0.089000                                                       
+met_DASH_L_e    -0.084000                                                       
+val_DASH_L_e    -0.071000                                                       
+asp_DASH_L_e    -0.041000                                                       
+tyr_DASH_L_e    -0.035000                                                       
+fe2_e           -0.021991                                                       
+gly_e           -0.014000                                                       
+mg2_e           -0.011878                                                       
+cl_e            -0.007127                                                       
+ca2_e           -0.007127                                                       
+cu2_e           -0.000971                                                       
+mn2_e           -0.000946                                                       
+zn2_e           -0.000467                                                       
+ni2_e           -0.000442                                                       
+mobd_e          -0.000177                                                       
+cobalt2_e       -0.000034                                                       

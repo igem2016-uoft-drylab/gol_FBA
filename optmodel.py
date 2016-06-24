@@ -31,7 +31,3 @@ if "summary" in sys.argv:
 
 if "status" in sys.argv:
 	print("model's status is: " + model.solution.status)
-
-
-
-

@@ -1,0 +1,16 @@
+NODE	h2o_e_in
+NODE	h2o_e_out
+NODE	co2_e_in
+NODE	co2_e_out
+NODE	h_e_in
+NODE	h_e_out
+NODE	mththf_c_in
+NODE	mththf_c_out
+NODE	5drib_c_in
+NODE	5drib_c_out
+NODE	4crsol_c_in
+NODE	4crsol_c_out
+NODE	amob_c_in
+NODE	amob_c_out
+NODE	meoh_e_in
+NODE	meoh_e_out

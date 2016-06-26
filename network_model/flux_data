@@ -1,0 +1,159 @@
+NODE	CYTO
+NODE	EX
+IN	CYTO	EX
+NODE	o2_e
+NODE	o2_c
+IN	o2_c	CYTO
+EDGE	o2_e	o2_c
+NODE	glc_DASH_D_e
+NODE	glc_DASH_D_c
+IN	glc_DASH_D_c	CYTO
+EDGE	glc_DASH_D_e	glc_DASH_D_c
+NODE	nh4_e
+NODE	nh4_c
+IN	nh4_c	CYTO
+EDGE	nh4_e	nh4_c
+NODE	ser_DASH_L_e
+NODE	ser_DASH_L_c
+IN	ser_DASH_L_c	CYTO
+EDGE	ser_DASH_L_e	ser_DASH_L_c
+NODE	pi_e
+NODE	pi_c
+IN	pi_c	CYTO
+EDGE	pi_e	pi_c
+NODE	arg_DASH_L_e
+NODE	arg_DASH_L_c
+IN	arg_DASH_L_c	CYTO
+EDGE	arg_DASH_L_e	arg_DASH_L_c
+NODE	ura_e
+NODE	ura_c
+IN	ura_c	CYTO
+EDGE	ura_e	ura_c
+NODE	gln_DASH_L_e
+NODE	gln_DASH_L_c
+IN	gln_DASH_L_c	CYTO
+EDGE	gln_DASH_L_e	gln_DASH_L_c
+NODE	ala_DASH_L_e
+NODE	ala_DASH_L_c
+IN	ala_DASH_L_c	CYTO
+EDGE	ala_DASH_L_e	ala_DASH_L_c
+NODE	thr_DASH_L_e
+NODE	thr_DASH_L_c
+IN	thr_DASH_L_c	CYTO
+EDGE	thr_DASH_L_e	thr_DASH_L_c
+NODE	k_e
+NODE	k_c
+IN	k_c	CYTO
+EDGE	k_e	k_c
+NODE	so4_e
+NODE	so4_c
+IN	so4_c	CYTO
+EDGE	so4_e	so4_c
+NODE	his_DASH_L_e
+NODE	his_DASH_L_c
+IN	his_DASH_L_c	CYTO
+EDGE	his_DASH_L_e	his_DASH_L_c
+NODE	pro_DASH_L_e
+NODE	pro_DASH_L_c
+IN	pro_DASH_L_c	CYTO
+EDGE	pro_DASH_L_e	pro_DASH_L_c
+NODE	phe_DASH_L_e
+NODE	phe_DASH_L_c
+IN	phe_DASH_L_c	CYTO
+EDGE	phe_DASH_L_e	phe_DASH_L_c
+NODE	leu_DASH_L_e
+NODE	leu_DASH_L_c
+IN	leu_DASH_L_c	CYTO
+EDGE	leu_DASH_L_e	leu_DASH_L_c
+NODE	lys_DASH_L_e
+NODE	lys_DASH_L_c
+IN	lys_DASH_L_c	CYTO
+EDGE	lys_DASH_L_e	lys_DASH_L_c
+NODE	ile_DASH_L_e
+NODE	ile_DASH_L_c
+IN	ile_DASH_L_c	CYTO
+EDGE	ile_DASH_L_e	ile_DASH_L_c
+NODE	met_DASH_L_e
+NODE	met_DASH_L_c
+IN	met_DASH_L_c	CYTO
+EDGE	met_DASH_L_e	met_DASH_L_c
+NODE	val_DASH_L_e
+NODE	val_DASH_L_c
+IN	val_DASH_L_c	CYTO
+EDGE	val_DASH_L_e	val_DASH_L_c
+NODE	asp_DASH_L_e
+NODE	asp_DASH_L_c
+IN	asp_DASH_L_c	CYTO
+EDGE	asp_DASH_L_e	asp_DASH_L_c
+NODE	tyr_DASH_L_e
+NODE	tyr_DASH_L_c
+IN	tyr_DASH_L_c	CYTO
+EDGE	tyr_DASH_L_e	tyr_DASH_L_c
+NODE	fe2_e
+NODE	fe2_c
+IN	fe2_c	CYTO
+EDGE	fe2_e	fe2_c
+NODE	gly_e
+NODE	gly_c
+IN	gly_c	CYTO
+EDGE	gly_e	gly_c
+NODE	mg2_e
+NODE	mg2_c
+IN	mg2_c	CYTO
+EDGE	mg2_e	mg2_c
+NODE	cl_e
+NODE	cl_c
+IN	cl_c	CYTO
+EDGE	cl_e	cl_c
+NODE	ca2_e
+NODE	ca2_c
+IN	ca2_c	CYTO
+EDGE	ca2_e	ca2_c
+NODE	cu2_e
+NODE	cu2_c
+IN	cu2_c	CYTO
+EDGE	cu2_e	cu2_c
+NODE	mn2_e
+NODE	mn2_c
+IN	mn2_c	CYTO
+EDGE	mn2_e	mn2_c
+NODE	zn2_e
+NODE	zn2_c
+IN	zn2_c	CYTO
+EDGE	zn2_e	zn2_c
+NODE	ni2_e
+NODE	ni2_c
+IN	ni2_c	CYTO
+EDGE	ni2_e	ni2_c
+NODE	mobd_e
+NODE	mobd_c
+IN	mobd_c	CYTO
+EDGE	mobd_e	mobd_c
+NODE	cobalt2_e
+NODE	cobalt2_c
+IN	cobalt2_c	CYTO
+EDGE	cobalt2_e	cobalt2_c
+NODE	h2o_e
+IN	h2o_e	EX
+EDGE	h2o_e	CYTO
+NODE	co2_e
+IN	co2_e	EX
+EDGE	co2_e	CYTO
+NODE	h_e
+IN	h_e	EX
+EDGE	h_e	CYTO
+NODE	mththf_c
+IN	mththf_c	EX
+EDGE	mththf_c	CYTO
+NODE	5drib_c
+IN	5drib_c	EX
+EDGE	5drib_c	CYTO
+NODE	4crsol_c
+IN	4crsol_c	EX
+EDGE	4crsol_c	CYTO
+NODE	amob_c
+IN	amob_c	EX
+EDGE	amob_c	CYTO
+NODE	meoh_e
+IN	meoh_e	EX
+EDGE	meoh_e	CYTO

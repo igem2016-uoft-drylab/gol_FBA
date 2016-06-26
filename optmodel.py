@@ -31,3 +31,16 @@ if "summary" in sys.argv:
 
 if "status" in sys.argv:
 	print("model's status is: " + model.solution.status)
+
+if "met" in sys.argv:
+	j = sys.argv[3]
+	met = model.metabolites.get_by_id(j)
+	met.summary()
+
+if "solution" in sys.argv:
+	
+	total = 0
+	for i in model.solution.y:
+		total = total + i
+	print(total)
+	print(model.solution.y_dict)
